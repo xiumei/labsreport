@@ -1,0 +1,15 @@
+This project includes reports on Labs apps.
+
+How to create a newsletter for a new quarter.
+
+1. Create a directory for the new quarter in public/labs/labsreport.
+e.g. mkdir public/labs/labsreport/2016-Qtest
+
+2. Create file data.json to cover your data. Keep the keys the same as the ones of other quarters.
+
+3. Create directories 2016-Qtest/images and 2016-Qtest/images/contributors. Trace of images is:
+top10apps.png and overallAdoption.png -> 2016-Qtest/images
+portraits of topCeeContributors -> 2016-Qtest/images/contributors.
+
+4. Add a new list item to public/labs/labsreport/index.html
+

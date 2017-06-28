@@ -1,0 +1,67 @@
+{
+    "title": "Red Hat Customer Portal Labs Newsletter - FY2018Q1",
+    "publishDate": "June, 2017",
+    "topApps": [{
+        "title": "Registration Assistant",
+        "id": "registrationassistant"
+    }, {
+        "title": "Kickstart Generator",
+        "id": "kickstartconfig"
+    }, {
+        "title": "Red Hat Code Browser",
+        "id": "psb"
+    }, {
+        "title": "Load Balancer Configuration Tool",
+        "id": "lbconfig"
+    }, {
+        "title": "Log Reaper",
+        "id": "logreaper"
+    }, {
+        "title": "Red Hat Virtualization Upgrade Helper",
+        "id": "rhevupgradehelper"
+    }, {
+        "title": "JVM Options Configuration Tool",
+        "id": "jvmconfig"
+    }, {
+        "title": "Network Bonding Helper",
+        "id": "networkbondinghelper"
+    }, {
+        "title": "Product Life Cycle Checker",
+        "id": "plcc"
+    }, {
+        "title": "Packet capture syntax generator",
+        "id": "nptcpdump"
+    }],
+
+    "newApps": [{
+        "title": "Red Hat Product Certificates",
+        "id": "rhpc",
+        "desc": "The Red Hat Product Certificates application helps you retrieve and install product certificate files that are required for Red Hat Subscription Management (RHSM) to recognize Red Hat products installed on your system."
+    }, {
+        "title": "Red Hat Network (RHN) System List Exporter",
+        "id": "rhnsle",
+        "desc": "This app can retrieve information about systems that are still registered to Red Hat Network Classic (RHN) to assist with your migration to Red Hat Subscription Management (RHSM)."
+    }],
+
+    "topCeeContributors": [{
+        "name": "Shea DeAntonio",
+        "id": "tdeanton"
+    }, {
+        "name": "Jeremy Perry",
+        "id": "jeperry"
+    }, {
+        "name": "Kathryn Dixon",
+        "id": "kdixon"
+    }],
+
+    "kudos": [{
+        "author": "Joseph Stephens (Customer, Oncor Electric Delivery Company)",
+        "content": "This (Red Hat Virtualization Agent (virt-who) Configuration Helper) is great! It helped with a confusing multi esxi environment with hundreds of esx and thousands of hosts. Great Work!!!!!! Thank you to whomever wrote this little tool!"
+    }, {
+        "author": "Anuja Janorkar (Customer Support Specialist, Red Hat)",
+        "content": "The Red Hat Product Certificates app looks amazing. I tried for RHSCL and few other certificates. The files were generated under the required directory after executing the script. This will definitely help the customers and will reduce the \"certificate missing\" case volume. xmeng++ dzhao++ you rock!"
+    }, {
+        "author": "Marina Kalinin (Senior Software Maintenance Engineer Sbr-Virt, Red Hat)",
+        "content": "Thanks to all the folks working and contributing to the tool. Specifically Yunfeng, Dong, Roman, Javier and the rest of you!"
+    }]
+}

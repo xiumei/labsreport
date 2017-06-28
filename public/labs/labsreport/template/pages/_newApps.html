@@ -1,0 +1,14 @@
+<h2 class="nl-title">new apps</h2>
+<span ng-repeat="app in data.newApps" style="font-size: 14px; text-decoration: none;">
+    <img src="https://access.redhat.com/webassets/avalon/g/emails/icon_new_announcement.png" width="25" style="vertical-align: bottom;"/>
+    <b><a href="https://access.redhat.com/labs/{{app.id}}" style="color:#1d6285" >{{app.title}}</a></b>
+    <p class="desc">
+        {{app.desc}}&nbsp;
+        <p class="desc">
+            <a href="https://access.redhat.com/labsinfo/{{app.id}}" style="color: #0066cc; text-decoration: none;">
+                More Info
+                <img src="https://access.redhat.com/webassets/avalon/g/emails/icon_blue-arrow.png" alt="" border="0" style="border: 0; vertical-align: middle;" valign="middle">
+            </a>
+        </p>
+    </p>
+</span>

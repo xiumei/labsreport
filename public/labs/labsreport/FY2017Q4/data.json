@@ -1,0 +1,83 @@
+{
+    "title": "Red Hat Access Labs Newsletter - FY2017Q4",
+    "publishDate": "March, 2017",
+    "topApps": [{
+        "title": "Leap Second Issue Detector",
+        "id": "leapsecond"
+    }, {
+        "title": "Registration Assistant",
+        "id": "registrationassistant"
+    }, {
+        "title": "Red Hat Code Browser",
+        "id": "psb"
+    }, {
+        "title": "Kickstart Generator",
+        "id": "kickstartconfig"
+    }, {
+        "title": "Load Balancer Configuration Tool",
+        "id": "lbconfig"
+    }, {
+        "title": "Red Hat I/O Usage Visualizer",
+        "id": "rhiou"
+    }, {
+        "title": "Log Reaper",
+        "id": "logreaper"
+    }, {
+        "title": "Multipath Helper",
+        "id": "multipathhelper"
+    }, {
+        "title": "Yum Repository Configuration Helper",
+        "id": "yumrepoconfighelper"
+    }, {
+        "title": "Product Life Cycle Checker ",
+        "id": "plcc"
+    }],
+
+    "newApps": [{
+        "title": "Red Hat Virtualization Agent (virt-who) Configuration Helper",
+        "id": "virtwhoconfig",
+        "desc": "virt-who is required when working with any hypervisor if your subscription name includes the words \"Virtual Datacenters\", \"4 Guests\", or \"Unlimited Guests\". This app helps users configure virt-who."
+    }, {
+        "title": "RHEL Tuner for Oracle",
+        "id": "rheltfo",
+        "desc": "This app generates a script that sets the tuning parameter in the operating system, which improves Oracle’s performance."
+    }, {
+        "title": "Storage / LVM configuration viewer",
+        "id": "slcv",
+        "desc": "Storage / LVM configuration viewer analyzes files included in a sosreport, and draws a chart to visualize logical/physical view of volume groups and partitions of disks."
+    }],
+
+    "topCeeContributors": [{
+        "name": "Xixi D'Moon",
+        "id": "xdmoon"
+    }, {
+        "name": "Pravin Mali ",
+        "id": "pmali"
+    }, {
+        "name": "Marina Kalinin",
+        "id": "mkalinin"
+    }, {
+        "name": "Roman Hodain",
+        "id": "rhodain"
+    }, {
+        "name": "Ashish Humbe",
+        "id": "ahumbe"
+    }, {
+        "name": "Alviso Josephine",
+        "id": "jalviso"
+    }, {
+        "name": "JP Sherman",
+        "id": "jpsherma"
+    }, {
+        "name": "Misha Husnain Ali",
+        "id": "mhusnain"
+    }],
+
+    "kudos": [{
+        "author": "Jiri Blaha (HeidelbergCement Group)",
+        "content": "Very nice, useful tool. Thank you."
+    }, {
+        "author": "Xixi D'Moon (Technology Manager/Senior Principal Consultant, Red Hat)",
+        "content": "Appreciate all the great work your team does with Access Labs to help customers self-solve and reduce support load.  It was a true team effort all around. I was also impressed with the fast turnarounds with the virt-who lab."
+    }]
+}

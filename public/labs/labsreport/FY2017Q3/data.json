@@ -1,0 +1,77 @@
+{
+    "title": "Red Hat Access Labs Newsletter - FY2017Q3",
+    "publishDate": "December, 2016",
+    "topApps": [{
+        "title": "Registration Assistant",
+        "id": "registrationassistant"
+    }, {
+        "title": "Kickstart Generator",
+        "id": "kickstartconfig"
+    }, {
+        "title": "Load Balancer Configuration Tool",
+        "id": "lbconfig"
+    }, {
+        "title": "Red Hat Code Browser",
+        "id": "psb"
+    }, {
+        "title": "Leap Second Issue Detector",
+        "id": "leapsecond"
+    }, {
+        "title": "JVM Options Configuration Tool",
+        "id": "jvmconfig"
+    }, {
+        "title": "Multipath Helper",
+        "id": "multipathhelper"
+    }, {
+        "title": "Red Hat Virtualization Upgrade Helper",
+        "id": "rhevupgradehelper"
+    }, {
+        "title": "Product Life Cycle Checker ",
+        "id": "plcc"
+    }, {
+        "title": "Network Bonding Helper",
+        "id": "networkbondinghelper"
+    }],
+
+    "newApps": [{
+        "title": "Leap Second Issue Detector",
+        "id": "leapsecond",
+        "desc": "This script helps you test whether your system is subject to the leap second issue. The next leap second will occur on 2016 December 31, 23h 59m 60s UTC."
+    }, {
+        "title": "Red Hat I/O Usage Visualizer",
+        "id": "rhiou",
+        "desc": "Red Hat I/O Usage Visualizer displays a visualization of the I/O device usage statistics captured by the SAR utility."
+    }, {
+        "title": "AD Integration Helper",
+        "id": "adih",
+        "desc": "The AD Integration Helper tool helps connect a Red Hat Enterprise Linux system to an Active Directory server by generating a Samba Winbind configuration. This tool generates a script to configure Samba, NSS and PAM. "
+    }, {
+        "title": "Red Hat Memory Analyzer",
+        "id": "rhma",
+        "desc": "Red Hat Memory Analyzer visualizes memory usage on your system based on information captured by the SAR utility. In the dynamic chart, RAM shows the percentage of used memory, cache, buffer and free memory while SWAP shows the percentage of used swap."
+    }, {
+        "title": "Multipath Configuration Visualizer",
+        "id": "mpcv",
+        "desc": "Multipath Configuration Visualizer analyzes files included in a sosreport, and draws a diagram to visualize the multipath configuration, where you can easily figure out host components, storage components, Fabric / Ethernet components and Paths through them."
+    }, {
+        "title": "Red Hat Mobile Application Platform 4.x sizing tool",
+        "id": "rhmap",
+        "desc": "This application helps plan your deployment by recommending a Red Hat Mobile Application Platform configuration to support your use case."
+    }],
+
+    "comingSoon": [{
+        "title": "RHEL tuner for oracle",
+        "desc": "Customers often query how to tune Red Hat Enterprise Linux for Oracle and Oracle RAC. We are creating a Lab app to help them!"
+    }],
+
+    "topCeeContributors": [{
+        "name": "Ranjith Rajaram",
+        "id": "rrajaram"
+    }, {
+        "name": "Christian Horn",
+        "id": "chorn"
+    }, {
+        "name": "Qi Guo",
+        "id": "qguo"
+    }]
+}

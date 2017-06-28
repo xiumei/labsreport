@@ -1,0 +1,11 @@
+<h2 class="nl-title">top cee contributors</h2>
+<table align="center">
+    <tr ng-repeat="p in data.topCeeContributors">
+        <td style="padding:2px;">
+            <img ng-src="/labs/labsreport/{{Q}}/images/contributors/{{p.id}}.png?bust={{data.bust}}" err-src="/labs/labsreport/template/images/redhat.jpg" width="50"/>
+        </td>
+        <td style="font-size:12px;">
+            <a href="https://mojo.redhat.com/people/{{p.id}}" style="color:#1d6285">{{p.name}}</a>{{p.desc}}
+        </td>
+    </tr>
+</table>
